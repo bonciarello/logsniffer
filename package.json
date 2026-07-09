@@ -1,0 +1,13 @@
+{
+  "name": "logsniffer",
+  "version": "1.0.0",
+  "description": "Decodificatore di stack trace da log — analizza Java, Python, JavaScript e .NET",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
